@@ -102,5 +102,5 @@ Execute SQL scripts in the following order:
 
 ## Author
 
-**Your Name**
+**Zulfiqar Ali**
 [LinkedIn](linkedin.com/in/iamzulfiqarali) 
