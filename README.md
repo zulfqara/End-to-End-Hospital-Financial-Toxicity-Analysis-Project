@@ -56,6 +56,7 @@ machine learning models.
 
 <img width="986" height="565" alt="image" src="https://github.com/user-attachments/assets/9af42240-2815-41b2-ac71-c712a0ee9ee6" />
 
+[Download Power BI File (.pbix)](https://drive.google.com/file/d/115Z0092BQp15k-D4W3GsW59ANTk3_gO1/view?usp=sharing)
 ---
 
 ## Key Findings
@@ -103,4 +104,5 @@ Execute SQL scripts in the following order:
 ## Author
 
 **Zulfiqar Ali**
+
 [LinkedIn](linkedin.com/in/iamzulfiqarali) 
